@@ -90,14 +90,23 @@
 
 ### - Github Info
 <dl><dd>
-<img src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ottomayer313&" alt="ottomayer313" />
+<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313" />
+<br/>
+<img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ottomayer313&" alt="ottomayer313" />
 </dd></dl>
 
 ### - Contact with me
 <dl><dd>
-<a href="https://medium.com/ottomayer313@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ottomayer313@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/ottomayer313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ottomayer313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ottomayer313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ottomayer313" height="30" width="40" /></a>
+<a href="mailto:ottomayer313@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ottomayer313"  target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231DA1F3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://t.me/ottomayer313" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/ottomayer313" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F3.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 </dd></dl>

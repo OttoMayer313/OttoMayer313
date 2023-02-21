@@ -3,7 +3,7 @@
 ### - About me
 - A Full Stack Project Manager with in-depth knowledge of planning project, installing DevOps, managing source and building projects  
 - A Passionate Senior Software Developer with +10 years of experience in gathering, designing, developing, implementing, debugging, testing, deployment of   software applications using mobile, web and blockchain technologies
-- Online Casino Software Architect with full skills of building communication infra of online providers and implementing their API integration.
+- Online Casino Software Architect with a full skill of building communication infra of online providers and implementing their API integration.
 ### - Skills
  - DevOps
 <dl><dd>

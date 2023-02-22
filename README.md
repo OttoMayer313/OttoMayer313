@@ -1,4 +1,8 @@
-<h1>Full Stack Project Manager</h1>
+<h1 align="center">Full Stack Project Manager</h1>
+
+<p align="center">
+<img src="https://visits.roshan.cyou/gQuRqutH88Ydyvs6XE1Q?label=VISITS&countBGColor=A2C93E" height = 25px/>  <img src="https://visits.roshan.cyou/vo5SrQz2LUXs4m9vi8YO?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 25px/>  <img src="https://visits.roshan.cyou/EtpNvYalXfapEJbHQmEa?label=Hit%20Count&textShadow=1&labelBGColor=1CA2F1&countBGColor=3e3e3e&labelTextColor=FFFFFF&countTextColor=ffffff" height = 25px/>
+</p>
 
 ### - About me
 - A Full Stack Project Manager with in-depth knowledge of planning project, installing DevOps, managing source and building projects  
@@ -90,9 +94,9 @@
 
 ### - Github Info
 <dl><dd>
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313" />
+<img width=400% src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/>
 <br/>
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ottomayer313&show_icons=true&locale=en&layout=compact" alt="ottomayer313" />
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=ottomayer313&show_icons=true&locale=en&layout=compact" alt="ottomayer313"/>
 </dd></dl>
 
 ### - Contact with me

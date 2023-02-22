@@ -95,8 +95,6 @@
 ### - Github Info
 <dl><dd>
 <img width=40% src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/>
-<br/>
-<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=ottomayer313&show_icons=true&locale=en&layout=compact" alt="ottomayer313"/>
 </dd></dl>
 
 ### - Contact with me

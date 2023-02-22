@@ -98,15 +98,12 @@
 ### - Contact with me
 <dl><dd>
 <a href="mailto:ottomayer313@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ottomayer313"  target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231DA1F3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://t.me/ottomayer313" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/ottomayer313" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F3.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </dd></dl>

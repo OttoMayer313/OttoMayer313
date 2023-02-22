@@ -100,9 +100,7 @@
 
 ### - Github Stats
 <dl><dd>
-<img width=40% src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
-<br/> 
-<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
+<br/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
 </dd></dl>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)

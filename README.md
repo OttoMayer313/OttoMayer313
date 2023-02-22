@@ -1,7 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ottomayer313&label=Profile%20views&color=0e75b6&style=flat" alt="ottomayer313" /></p>
-
 <h1>Full Stack Project Manager</h1>
-
 <a href="mailto:ottomayer313@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -100,7 +98,11 @@
 </dd></dl>
 </dd></dl>
 
-### - Github Info
+### - Github Stats
 <dl><dd>
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
+<img width=40% src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
+<br/> 
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
 </dd></dl>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)

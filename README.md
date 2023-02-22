@@ -92,7 +92,7 @@
 <dl><dd>
 <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313" />
 <br/>
-<img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ottomayer313&" alt="ottomayer313" />
+<img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ottomayer313&show_icons=true&locale=en&layout=compact" alt="ottomayer313" />
 </dd></dl>
 
 ### - Contact with me

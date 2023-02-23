@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ottomayer313&label=Profile%20views&color=0e75b6&style=flat" alt="ottomayer313" /></p>
 <h1>Full Stack Project Manager</h1>
-<a href="mailto:ottomayer313@gmail.com">
+<a href="mailto:fiverscan.ks3p@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ottomayer313"  target="_blank">

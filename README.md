@@ -115,9 +115,12 @@ height="40"/> </a>
 </dd></dl>
 </dd></dl>
 
-### - Github Stats
+### - Most Used Languages
 <dl><dd>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
-<br/>
+</dd></dl>
+
+### - Github Stats
+<dl><dd>
 <img  src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
 </dd></dl>

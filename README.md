@@ -80,7 +80,7 @@ src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" w
 </dd></dl>
 </dd></dl>
  
- - BlockChain Development
+ - Blockchain Development
 <dl><dd>
 <dl><dd>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img

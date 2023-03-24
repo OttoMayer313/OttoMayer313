@@ -3,7 +3,7 @@
 <a href="mailto:fiverscan.ks3p@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ottomayer313"  target="_blank">
+<a href="https://www.linkedin.com/in/otto-mayer/"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://t.me/ottomayer313" target="_blank">

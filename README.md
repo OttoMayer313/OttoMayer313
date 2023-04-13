@@ -122,5 +122,5 @@ height="40"/> </a>
 
 ### - Github Stats
 <dl><dd>
-<img  src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=ottomayer313&show_icons=true&locale=en" alt="ottomayer313"/> 
 </dd></dl>
